@@ -31,6 +31,7 @@ Reading is a core part of my personal growth. Starting today (December 29, 2025)
 This repo will grow over time — one book at a time!
 
 ## Folder Structure
+```
 book-summaries/
 ├── README.md                  # Main overview (the one below)
 ├── reading-list.md            # Optional: List of all books (planned, reading, completed)
@@ -43,6 +44,7 @@ book-summaries/
 ├── planned/                   # Future books
 │   └── to-read.md
 └── resources/                 # Optional: Templates, images, or references
+```
 
 ## Reading Goals
 
