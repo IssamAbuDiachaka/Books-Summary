@@ -13,6 +13,7 @@ This repository serves as my digital reading journal — a place to consolidate 
 ## Table of Contents
 
 - [Why This Repo?](#why-this-repo)
+- [Folder Structure](#folder-structure)
 - [Reading Goals](#reading-goals)
 - [Current Reading Progress](#current-reading-progress)
 - [Completed Books](#completed-books)
@@ -28,6 +29,20 @@ Reading is a core part of my personal growth. Starting today (December 29, 2025)
 - Sharing publicly for accountability and to help others.
 
 This repo will grow over time — one book at a time!
+
+## Folder Structure
+book-summaries/
+├── README.md                  # Main overview (the one below)
+├── reading-list.md            # Optional: List of all books (planned, reading, completed)
+├── completed/                 # Folder for finished books
+│   ├── atomic-habits.md       # Example: One Markdown file per book
+│   ├── sapiens.md
+│   └── ...
+├── in-progress/               # Current reads
+│   └── current-book.md
+├── planned/                   # Future books
+│   └── to-read.md
+└── resources/                 # Optional: Templates, images, or references
 
 ## Reading Goals
 
